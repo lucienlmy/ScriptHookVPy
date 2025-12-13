@@ -7,7 +7,7 @@
 
 Inspired by ScriptHookVDotNet, ScriptHookVPy allows you to write GTA V mods in Python with full access to all native functions.
 
-![Version](https://img.shields.io/badge/version-1.0-blue)
+![Version](https://img.shields.io/badge/version-1.0.1-blue)
 ![Python](https://img.shields.io/badge/python-3.11-yellow)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
